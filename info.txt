@@ -1,0 +1,37 @@
+# 🌐 Project Context – CV
+
+---
+## 🧭 Business Goals
+- I want to have personal CV for backend .NET developer with Azure cloud stack, knowledge of Azure AD B2C, Microsoft Dynamics 365 who also have skills to work with legacy solutions.
+- I know polish language as my native language and english language on B2 level.
+- I have master's degree in Project Management and Bachelor's degree in Information Technology.
+- I want to have professional experience of 10 years in 3 different companies with explaination of what I was responsible for in each one.
+- I want have listed skills I have based on my experience from first point.
+- I want thing CV to attract attention of recruiter. 
+- Use photo.jpg from sources folder as photo for CV
+
+---
+## ⚙️ Technical Stack
+- Use plain JS, HTML and CSS
+- Make this CV as clean as possible - no fireworks, just pleasent for eyes and eyecatching at the same time
+
+---
+
+## 🧩 Architecture & Structure
+- Use clean architecture
+- Make site as one-page without scroll option
+
+---
+## 🔒 Project Assumptions
+- ...
+
+
+---
+## 🧠 Scope
+- ...
+
+
+---
+## ⚖️ Out of Scope
+- ...
+
